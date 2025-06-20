@@ -3,6 +3,8 @@
 Bu proje, Python ve Pygame kullanılarak yapılmış klasik bir Pong oyununu temsil eder.  
 Oyunda iki oyuncu karşılıklı oynar ve ilk 5 puanı alan oyunu kazanır.
 
+#Oyundan Ekran Görüntüsü
+![image](https://github.com/user-attachments/assets/1878eb1a-498c-45de-883b-6c3db52f46e2)
 
 #Kurulum
 1. Python yüklü değilse [python.org](https://www.python.org/) adresinden indir ve kur.
