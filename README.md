@@ -87,4 +87,4 @@ Bu proje eğitim amaçlıdır. Geliştirilmeye ve kişiselleştirilmeye açıkt�
 Katkıda bulunmak istersen forka atabilir veya issue oluşturabilirsin.
 
 Proje Linki :
-[Pong Game GitHub Sayfası] (https://github.com/zeynep8859323/Pong-Game)
+[ponggamegithubsayfası](https://github.com/zeynep8859323/Pong-Game)
