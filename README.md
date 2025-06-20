@@ -26,7 +26,7 @@ Pygame’i kurmak için ise terminal veya komut istemcisine şu yazılmalı:
 pip install pygame
 
 
-#Kurulum 
+# Kurulum 
 Bu projeyi bilgisayarına indir veya klonla:
 
 GitHub sayfasında sağ üstte bulunan Code butonuna tıkla ve:
